@@ -12,3 +12,10 @@ Projeto construido do evento Next Level Week da Rocketseat
 - HTML
 - CSS
 - Git and Github 
+
+## 💶 Minhas modificações
+
+- Background
+- Section color
+- Section border
+- Section effects
